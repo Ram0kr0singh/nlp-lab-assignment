@@ -1,0 +1,6 @@
+Class / Average,precision,recall,f1-score,support
+Negative,0.5,0.4,0.4444444444444444,5.0
+Positive,0.5,0.6,0.5454545454545454,5.0
+accuracy,0.5,0.5,0.5,0.5
+macro avg,0.5,0.5,0.4949494949494949,10.0
+weighted avg,0.5,0.5,0.494949494949495,10.0

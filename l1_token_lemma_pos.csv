@@ -1,0 +1,23 @@
+Token,Lemma,POS Tag
+Dr.,Dr.,PROPN
+Rao,Rao,PROPN
+ca,can,AUX
+n't,not,PART
+attend,attend,VERB
+the,the,DET
+NLP,NLP,PROPN
+workshop,workshop,NOUN
+at,at,ADP
+3:30,3:30,NUM
+p.m.,p.m.,NOUN
+Visit,visit,NOUN
+for,for,ADP
+updates,update,NOUN
+.,.,PUNCT
+The,the,DET
+students,student,NOUN
+are,be,AUX
+studying,study,VERB
+Language,Language,PROPN
+Technologies,Technologies,PROPN
+!,!,PUNCT

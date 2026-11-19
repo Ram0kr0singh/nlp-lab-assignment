@@ -1,0 +1,11 @@
+text,Actual Label,Predicted Label
+The battery cannot last through a normal working day,Negative,Positive
+Camera pictures have poor colors and lack sharpness,Negative,Positive
+I like the long battery life and quick charging support,Positive,Negative
+The phone becomes slow when several apps are running,Negative,Negative
+Charging from low power to full is surprisingly quick,Positive,Positive
+Battery life is disappointing and standby time is short,Negative,Positive
+The rear camera takes bright photos in daylight,Positive,Negative
+The battery lasts all day and charging is fast,Positive,Positive
+Excellent camera and smooth performance,Positive,Positive
+Fast charging does not work consistently on this device,Negative,Negative

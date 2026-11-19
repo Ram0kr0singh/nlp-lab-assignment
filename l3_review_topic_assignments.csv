@@ -1,0 +1,41 @@
+text,label,Dominant Topic,Topic Name,Topic Probability
+The battery lasts all day and charging is fast,Positive,1,Ram,0.9133
+Excellent camera and smooth performance,Positive,1,Ram,0.8497
+Battery backup is impressive even with heavy use,Positive,1,Ram,0.9116
+The phone charges quickly and stays powered for hours,Positive,2,Ram,0.922
+Photos look sharp and the camera captures clear details,Positive,2,Ram,0.9355
+Apps open quickly and the processor feels very smooth,Positive,1,Ram,0.9163
+The battery easily survives a full day of regular use,Positive,1,Ram,0.9263
+Fast charging saves time and battery life is reliable,Positive,1,Ram,0.9351
+The rear camera takes bright photos in daylight,Positive,2,Ram,0.9182
+Gaming performance is smooth with almost no lag,Positive,1,Ram,0.8642
+The camera produces natural colors and detailed pictures,Positive,2,Ram,0.9259
+I like the long battery life and quick charging support,Positive,1,Ram,0.5925
+The phone runs multiple apps without slowing down,Positive,2,Ram,0.7661
+Video recording is clear and image stabilization works well,Positive,2,Ram,0.9135
+Battery consumption is low and standby time is excellent,Positive,1,Ram,0.9227
+The processor handles demanding apps smoothly,Positive,1,Ram,0.912
+The front camera takes good selfies in normal lighting,Positive,1,Ram,0.8999
+Charging from low power to full is surprisingly quick,Positive,2,Ram,0.8739
+The device feels responsive while switching between apps,Positive,1,Ram,0.9146
+Camera focus is quick and photos remain clear,Positive,2,Ram,0.9264
+The phone hangs frequently and battery drains quickly,Negative,2,Ram,0.747
+Very poor camera quality and slow performance,Negative,1,Ram,0.876
+Battery backup is weak and the phone needs frequent charging,Negative,2,Ram,0.6601
+Charging takes too long and the battery gets empty quickly,Negative,1,Ram,0.9111
+Photos look blurry and camera details are disappointing,Negative,2,Ram,0.9228
+Apps freeze often and the processor feels very slow,Negative,1,Ram,0.9132
+The battery cannot last through a normal working day,Negative,1,Ram,0.8976
+Fast charging does not work consistently on this device,Negative,1,Ram,0.8212
+The rear camera produces dull photos in daylight,Negative,2,Ram,0.9263
+Games lag badly and applications take too long to open,Negative,2,Ram,0.9167
+Camera pictures have poor colors and lack sharpness,Negative,2,Ram,0.9176
+Battery drains overnight even when the phone is idle,Negative,1,Ram,0.5468
+The phone becomes slow when several apps are running,Negative,1,Ram,0.6854
+Video recording looks shaky and image quality is poor,Negative,1,Ram,0.9169
+Battery life is disappointing and standby time is short,Negative,1,Ram,0.9225
+The processor struggles with basic tasks and causes lag,Negative,2,Ram,0.9072
+The front camera makes selfies look grainy and unclear,Negative,1,Ram,0.6739
+Charging stops randomly before the battery is full,Negative,1,Ram,0.8944
+The device responds slowly when switching between apps,Negative,1,Ram,0.9141
+Camera focus is unreliable and photos often look blurred,Negative,2,Ram,0.9261

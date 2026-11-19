@@ -1,0 +1,4 @@
+Sentiment classification predicts whether an individual review is Positive or Negative, whereas LDA groups reviews by recurring words and product aspects without using sentiment labels.
+Ram: Positive and Negative reviews are evenly split (50.0% each among reviews assigned to this topic).
+Ram: Positive and Negative reviews are evenly split (50.0% each among reviews assigned to this topic).
+Interpret the topic-wise sentiment proportions cautiously because LDA is an unsupervised topic model and the dataset is small.
